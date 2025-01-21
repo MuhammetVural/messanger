@@ -44,3 +44,21 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 .gitignore
+
+
+# Generated files by Flutter
+ios/Flutter/Debug.xcconfig
+ios/Flutter/Release.xcconfig
+macos/Flutter/Flutter-Debug.xcconfig
+macos/Flutter/Flutter-Release.xcconfig
+ios/Flutter/Flutter.podspec
+macos/Flutter/Flutter.podspec
+
+# Plugin files
+lib/generated_plugin_registrant.dart
+windows/flutter/generated_plugins.cmake
+windows/flutter/generated_plugin_registrant.cc
+
+# Pods
+ios/Pods/
+macos/Pods/
